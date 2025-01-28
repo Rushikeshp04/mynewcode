@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-28T10:57:51 IST" name="Default suite" finished-at="2025-01-28T10:57:57 IST" duration-ms="5818">
+    <groups>
+    </groups>
+    <test started-at="2025-01-28T10:57:51 IST" name="Default test" finished-at="2025-01-28T10:57:57 IST" duration-ms="5818">
+      <class name="Assertion.testcase1">
+        <test-method signature="searchongoogle()[pri:0, instance:Assertion.testcase1@47874b25]" started-at="2025-01-28T10:57:51 IST" name="searchongoogle" finished-at="2025-01-28T10:57:57 IST" duration-ms="5685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchongoogle -->
+      </class> <!-- Assertion.testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
